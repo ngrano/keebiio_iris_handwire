@@ -34,3 +34,4 @@ https://www.caniusevia.com/docs/configuring_qmk
 - https://github.com/qmk/qmk_firmware
 - https://docs.qmk.fm/#/feature_split_keyboard
 - https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/troubleshooting-and-faq
+- https://joonas.fi/2022/05/qmk-w/-drop-ctrl-nordic-layout-hack-in-ansi-layout/#fixing-greater-than--less-than--pipe
