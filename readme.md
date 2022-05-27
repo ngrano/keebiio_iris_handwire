@@ -22,6 +22,10 @@ A split ergo 4x6 keyboard with 3 or 4 thumb keys made and sold by Keebio. [More 
 
 QMK Toolbox
 
+### VIA
+
+https://www.caniusevia.com/docs/configuring_qmk
+
 ## Links
 
 - https://jonathanbayless.com/2020/06/09/iris-handwire.html
