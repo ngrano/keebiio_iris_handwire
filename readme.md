@@ -6,6 +6,15 @@ A split ergo 4x6 keyboard with 3 or 4 thumb keys made and sold by Keebio. [More 
 
 # Build guide
 
+- Keycaps
+- switches
+- 2x pro micro controller
+- Diodes
+- Wire
+- Hotglue
+- 2x TRRS jack
+- 2x Reset button
+
 ## QMK Firmware
 
 ### Setup
